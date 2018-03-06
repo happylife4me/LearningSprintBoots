@@ -1685,3 +1685,194 @@
 2018-03-06 16:37:52,336 [Worker-1553] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
 2018-03-06 16:37:52,337 [Worker-1553] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2018-03-06 16:37:52,337 [Worker-1553] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-06 16:50:45,863 [Worker-1556] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.demo:spring-jdbc-1:0.0.1-SNAPSHOT @ C:\Jagadeesh\spring-jpa-1\pom.xml.
+2018-03-06 16:50:46,078 [Worker-1556] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-06 16:50:46,079 [Worker-1556] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-03-06 16:50:46,081 [Worker-1556] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-06 16:50:46,082 [Worker-1556] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-06 16:50:47,407 [Worker-1553] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-06 16:50:47,407 [Worker-1553] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-03-06 16:50:47,409 [Worker-1553] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-06 16:50:47,409 [Worker-1553] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-06 16:51:07,502 [Worker-1561] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.demo:spring-jpa-1:0.0.1-SNAPSHOT @ C:\Jagadeesh\spring-jpa-1\pom.xml.
+2018-03-06 16:51:07,570 [Worker-1561] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-06 16:51:07,570 [Worker-1561] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-06 16:51:07,571 [Worker-1561] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-06 16:51:07,571 [Worker-1561] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-06 16:53:57,283 [Worker-1562] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.demo:spring-jpa-1:0.0.1-SNAPSHOT @ C:\Jagadeesh\spring-jpa-1\pom.xml.
+2018-03-06 16:53:58,577 [Worker-1562] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-orm/4.3.7.RELEASE/spring-orm-4.3.7.RELEASE.pom
+2018-03-06 16:53:58,815 [Worker-1562] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-orm/4.3.7.RELEASE/spring-orm-4.3.7.RELEASE.pom
+2018-03-06 16:53:59,057 [Worker-1562] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/5.0.1.Final/hibernate-core-5.0.1.Final.pom
+2018-03-06 16:53:59,291 [Worker-1562] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/5.0.1.Final/hibernate-core-5.0.1.Final.pom
+2018-03-06 16:53:59,524 [Worker-1562] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging/3.3.0.Final/jboss-logging-3.3.0.Final.pom
+2018-03-06 16:53:59,806 [Worker-1562] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging/3.3.0.Final/jboss-logging-3.3.0.Final.pom
+2018-03-06 16:54:00,045 [Worker-1562] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/jboss-parent/15/jboss-parent-15.pom
+2018-03-06 16:54:00,543 [Worker-1562] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/jboss-parent/15/jboss-parent-15.pom
+2018-03-06 16:54:00,788 [Worker-1562] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/geronimo/specs/geronimo-jta_1.1_spec/1.1.1/geronimo-jta_1.1_spec-1.1.1.pom
+2018-03-06 16:54:01,027 [Worker-1562] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/geronimo/specs/geronimo-jta_1.1_spec/1.1.1/geronimo-jta_1.1_spec-1.1.1.pom
+2018-03-06 16:54:01,268 [Worker-1562] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/geronimo/specs/specs/1.4/specs-1.4.pom
+2018-03-06 16:54:01,530 [Worker-1562] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/geronimo/specs/specs/1.4/specs-1.4.pom
+2018-03-06 16:54:01,773 [Worker-1562] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/geronimo/genesis/config/project-config/1.2/project-config-1.2.pom
+2018-03-06 16:54:02,049 [Worker-1562] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/geronimo/genesis/config/project-config/1.2/project-config-1.2.pom
+2018-03-06 16:54:02,287 [Worker-1562] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/geronimo/genesis/config/config/1.2/config-1.2.pom
+2018-03-06 16:54:02,523 [Worker-1562] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/geronimo/genesis/config/config/1.2/config-1.2.pom
+2018-03-06 16:54:02,764 [Worker-1562] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/geronimo/genesis/genesis/1.2/genesis-1.2.pom
+2018-03-06 16:54:03,017 [Worker-1562] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/geronimo/genesis/genesis/1.2/genesis-1.2.pom
+2018-03-06 16:54:03,265 [Worker-1562] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/javax/persistence/hibernate-jpa-2.1-api/1.0.0.Final/hibernate-jpa-2.1-api-1.0.0.Final.pom
+2018-03-06 16:54:03,502 [Worker-1562] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/javax/persistence/hibernate-jpa-2.1-api/1.0.0.Final/hibernate-jpa-2.1-api-1.0.0.Final.pom
+2018-03-06 16:54:03,744 [Worker-1562] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/javassist/javassist/3.18.1-GA/javassist-3.18.1-GA.pom
+2018-03-06 16:54:03,999 [Worker-1562] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/javassist/javassist/3.18.1-GA/javassist-3.18.1-GA.pom
+2018-03-06 16:54:04,246 [Worker-1562] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/antlr/antlr/2.7.7/antlr-2.7.7.pom
+2018-03-06 16:54:04,479 [Worker-1562] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/antlr/antlr/2.7.7/antlr-2.7.7.pom
+2018-03-06 16:54:04,712 [Worker-1562] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/jandex/1.2.2.Final/jandex-1.2.2.Final.pom
+2018-03-06 16:54:04,949 [Worker-1562] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/jandex/1.2.2.Final/jandex-1.2.2.Final.pom
+2018-03-06 16:54:05,188 [Worker-1562] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/jboss-parent/12/jboss-parent-12.pom
+2018-03-06 16:54:05,492 [Worker-1562] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/jboss-parent/12/jboss-parent-12.pom
+2018-03-06 16:54:05,737 [Worker-1562] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/dom4j/dom4j/1.6.1/dom4j-1.6.1.pom
+2018-03-06 16:54:05,999 [Worker-1562] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/dom4j/dom4j/1.6.1/dom4j-1.6.1.pom
+2018-03-06 16:54:06,238 [Worker-1562] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/xml-apis/xml-apis/1.0.b2/xml-apis-1.0.b2.pom
+2018-03-06 16:54:06,474 [Worker-1562] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/xml-apis/xml-apis/1.0.b2/xml-apis-1.0.b2.pom
+2018-03-06 16:54:06,716 [Worker-1562] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/common/hibernate-commons-annotations/5.0.0.Final/hibernate-commons-annotations-5.0.0.Final.pom
+2018-03-06 16:54:06,954 [Worker-1562] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/common/hibernate-commons-annotations/5.0.0.Final/hibernate-commons-annotations-5.0.0.Final.pom
+2018-03-06 16:54:07,210 [Worker-1562] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-orm/4.3.7.RELEASE/spring-orm-4.3.7.RELEASE.jar
+2018-03-06 16:54:08,213 [Worker-1562] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-orm/4.3.7.RELEASE/spring-orm-4.3.7.RELEASE.jar
+2018-03-06 16:54:08,443 [Worker-1562] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/5.0.1.Final/hibernate-core-5.0.1.Final.jar
+2018-03-06 16:54:13,544 [Worker-1562] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/5.0.1.Final/hibernate-core-5.0.1.Final.jar
+2018-03-06 16:54:13,774 [Worker-1562] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging/3.3.0.Final/jboss-logging-3.3.0.Final.jar
+2018-03-06 16:54:14,024 [Worker-1562] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging/3.3.0.Final/jboss-logging-3.3.0.Final.jar
+2018-03-06 16:54:14,254 [Worker-1562] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/geronimo/specs/geronimo-jta_1.1_spec/1.1.1/geronimo-jta_1.1_spec-1.1.1.jar
+2018-03-06 16:54:14,493 [Worker-1562] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/geronimo/specs/geronimo-jta_1.1_spec/1.1.1/geronimo-jta_1.1_spec-1.1.1.jar
+2018-03-06 16:54:14,724 [Worker-1562] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/javax/persistence/hibernate-jpa-2.1-api/1.0.0.Final/hibernate-jpa-2.1-api-1.0.0.Final.jar
+2018-03-06 16:54:14,984 [Worker-1562] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/javax/persistence/hibernate-jpa-2.1-api/1.0.0.Final/hibernate-jpa-2.1-api-1.0.0.Final.jar
+2018-03-06 16:54:15,227 [Worker-1562] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/javassist/javassist/3.18.1-GA/javassist-3.18.1-GA.jar
+2018-03-06 16:54:15,969 [Worker-1562] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/javassist/javassist/3.18.1-GA/javassist-3.18.1-GA.jar
+2018-03-06 16:54:16,203 [Worker-1562] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/antlr/antlr/2.7.7/antlr-2.7.7.jar
+2018-03-06 16:54:16,713 [Worker-1562] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/antlr/antlr/2.7.7/antlr-2.7.7.jar
+2018-03-06 16:54:16,948 [Worker-1562] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/jandex/1.2.2.Final/jandex-1.2.2.Final.jar
+2018-03-06 16:54:17,199 [Worker-1562] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/jandex/1.2.2.Final/jandex-1.2.2.Final.jar
+2018-03-06 16:54:17,428 [Worker-1562] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/dom4j/dom4j/1.6.1/dom4j-1.6.1.jar
+2018-03-06 16:54:17,911 [Worker-1562] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/dom4j/dom4j/1.6.1/dom4j-1.6.1.jar
+2018-03-06 16:54:18,141 [Worker-1562] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/xml-apis/xml-apis/1.0.b2/xml-apis-1.0.b2.jar
+2018-03-06 16:54:18,425 [Worker-1562] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/xml-apis/xml-apis/1.0.b2/xml-apis-1.0.b2.jar
+2018-03-06 16:54:18,656 [Worker-1562] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/common/hibernate-commons-annotations/5.0.0.Final/hibernate-commons-annotations-5.0.0.Final.jar
+2018-03-06 16:54:18,909 [Worker-1562] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/common/hibernate-commons-annotations/5.0.0.Final/hibernate-commons-annotations-5.0.0.Final.jar
+2018-03-06 16:54:19,948 [Worker-1562] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-06 16:54:19,949 [Worker-1562] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-06 16:54:19,949 [Worker-1562] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-06 16:54:19,950 [Worker-1562] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-06 16:54:21,199 [Worker-1564] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-06 16:54:21,200 [Worker-1564] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-03-06 16:54:21,202 [Worker-1564] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-06 16:54:21,202 [Worker-1564] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-06 17:06:41,642 [Worker-1572] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-06 17:06:41,643 [Worker-1572] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-03-06 17:06:41,643 [Worker-1572] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-06 17:06:41,644 [Worker-1572] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-06 17:07:36,961 [Worker-1574] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-06 17:07:36,961 [Worker-1574] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-03-06 17:07:36,962 [Worker-1574] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-06 17:07:36,962 [Worker-1574] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-06 17:08:19,191 [Worker-1572] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-06 17:08:19,192 [Worker-1572] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-03-06 17:08:19,192 [Worker-1572] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-06 17:08:19,193 [Worker-1572] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-06 17:09:47,366 [Worker-1573] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-06 17:09:47,366 [Worker-1573] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-03-06 17:09:47,367 [Worker-1573] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-06 17:09:47,367 [Worker-1573] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-06 17:11:37,131 [Worker-1574] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-06 17:11:37,132 [Worker-1574] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-03-06 17:11:37,133 [Worker-1574] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-06 17:11:37,133 [Worker-1574] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-06 17:11:59,123 [Worker-1562] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-06 17:11:59,124 [Worker-1562] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-03-06 17:11:59,124 [Worker-1562] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-06 17:11:59,125 [Worker-1562] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-06 17:15:21,238 [Worker-1576] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-06 17:15:21,239 [Worker-1576] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-03-06 17:15:21,239 [Worker-1576] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-06 17:15:21,240 [Worker-1576] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-06 17:21:11,017 [Worker-1581] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-06 17:21:11,018 [Worker-1581] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-03-06 17:21:11,018 [Worker-1581] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-06 17:21:11,019 [Worker-1581] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-06 17:25:16,572 [Worker-1584] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-06 17:25:16,573 [Worker-1584] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-03-06 17:25:16,574 [Worker-1584] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-06 17:25:16,574 [Worker-1584] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-06 17:25:26,750 [Worker-1586] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-06 17:25:26,752 [Worker-1586] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-03-06 17:25:26,752 [Worker-1586] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-06 17:25:26,753 [Worker-1586] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-06 17:25:39,881 [Worker-1586] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-06 17:25:39,882 [Worker-1586] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-03-06 17:25:39,883 [Worker-1586] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-06 17:25:39,883 [Worker-1586] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-06 17:26:47,147 [Worker-1588] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.demo:spring-jpa-1:0.0.1-SNAPSHOT @ C:\Jagadeesh\spring-jpa-1\pom.xml.
+2018-03-06 17:26:48,369 [Worker-1588] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/hibernate-entitymanager/5.0.1.Final/hibernate-entitymanager-5.0.1.Final.pom
+2018-03-06 17:26:48,600 [Worker-1588] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-entitymanager/5.0.1.Final/hibernate-entitymanager-5.0.1.Final.pom
+2018-03-06 17:26:48,857 [Worker-1588] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/hibernate-entitymanager/5.0.1.Final/hibernate-entitymanager-5.0.1.Final.jar
+2018-03-06 17:26:50,331 [Worker-1588] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-entitymanager/5.0.1.Final/hibernate-entitymanager-5.0.1.Final.jar
+2018-03-06 17:26:50,479 [Worker-1588] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-06 17:26:50,479 [Worker-1588] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-06 17:26:50,479 [Worker-1588] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-06 17:26:50,480 [Worker-1588] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-06 17:26:51,759 [Worker-1587] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-06 17:26:51,760 [Worker-1587] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-03-06 17:26:51,761 [Worker-1587] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-06 17:26:51,762 [Worker-1587] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-06 17:28:03,525 [Worker-1584] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-06 17:28:03,527 [Worker-1584] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-03-06 17:28:03,528 [Worker-1584] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-06 17:28:03,529 [Worker-1584] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-06 17:31:13,198 [Worker-1582] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-beans/4.3.7.RELEASE/spring-beans-4.3.7.RELEASE-sources.jar
+2018-03-06 17:31:14,717 [Worker-1582] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-beans/4.3.7.RELEASE/spring-beans-4.3.7.RELEASE-sources.jar
+2018-03-06 17:31:14,773 [Worker-1582] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-beans:4.3.7.RELEASE
+2018-03-06 17:31:14,967 [Worker-1582] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-06 17:31:14,968 [Worker-1582] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-06 17:31:14,969 [Worker-1582] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-06 17:31:14,971 [Worker-1582] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-06 17:31:35,412 [Worker-1584] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-06 17:31:35,413 [Worker-1584] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-03-06 17:31:35,414 [Worker-1584] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-06 17:31:35,414 [Worker-1584] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-06 17:32:49,110 [Worker-1587] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-06 17:32:49,110 [Worker-1587] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-03-06 17:32:49,111 [Worker-1587] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-06 17:32:49,111 [Worker-1587] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-06 17:33:20,470 [Worker-1584] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-06 17:33:20,471 [Worker-1584] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-03-06 17:33:20,472 [Worker-1584] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-06 17:33:20,472 [Worker-1584] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-06 17:33:41,781 [Worker-1592] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-06 17:33:41,783 [Worker-1592] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-03-06 17:33:41,784 [Worker-1592] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-06 17:33:41,785 [Worker-1592] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-06 17:34:10,484 [Worker-1594] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-06 17:34:10,485 [Worker-1594] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-03-06 17:34:10,486 [Worker-1594] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-06 17:34:10,486 [Worker-1594] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-06 17:45:27,086 [Worker-1604] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-06 17:45:27,087 [Worker-1604] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-03-06 17:45:27,089 [Worker-1604] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-06 17:45:27,090 [Worker-1604] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-06 17:46:15,060 [Worker-1602] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-06 17:46:15,062 [Worker-1602] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-03-06 17:46:15,063 [Worker-1602] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-06 17:46:15,064 [Worker-1602] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-06 17:46:25,052 [Worker-1604] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-06 17:46:25,054 [Worker-1604] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-03-06 17:46:25,054 [Worker-1604] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-06 17:46:25,055 [Worker-1604] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-06 18:00:13,018 [Worker-1617] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-06 18:00:13,018 [Worker-1617] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-03-06 18:00:13,019 [Worker-1617] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-06 18:00:13,019 [Worker-1617] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-06 18:03:52,734 [Worker-1584] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-06 18:03:52,735 [Worker-1584] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-03-06 18:03:52,736 [Worker-1584] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-06 18:03:52,736 [Worker-1584] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-03-06 18:04:48,598 [Worker-1623] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-06 18:04:48,599 [Worker-1623] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-03-06 18:04:48,601 [Worker-1623] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-03-06 18:04:48,601 [Worker-1623] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
