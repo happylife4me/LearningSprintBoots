@@ -19,7 +19,7 @@ public class EmployeeMain {
 		ApplicationContext ctx = new AnnotationConfigApplicationContext(AppConfig.class);
 		EmpApp EmpObj = (EmpApp) ctx.getBean("objEmp");
 		
-		System.out.println("-------INSERT - Started--------------------");
+		/*System.out.println("-------INSERT - Started--------------------");
 		System.out.println(EmpObj.registerEmployee(empid,"Jagadeesh", "Hyderabad", 65000));
 		
 		System.out.println("-------INSERT - Completed--------------------");
@@ -48,9 +48,7 @@ public class EmployeeMain {
 		System.out.println("---------------------------");
 		
 		System.out.println("\n");
-		
-		
-		System.out.println("--------List of Employess to DB-------------------");
+		System.out.println("--------List of Employess to DB-------------------");*/
 		ArrayList<Employee> lstEmp = new ArrayList<>();
 		lstEmp.add(new Employee(112, "Jagadeesh", "Hyderabad", 45000));
 		lstEmp.add(new Employee(113, "Umadevi", "Secunderabad", 32500));
