@@ -1,0 +1,66 @@
+package com.demo.spring.dao;
+
+import java.sql.Connection;
+import java.sql.PreparedStatement;
+import java.sql.SQLException;
+import java.util.List;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.jdbc.core.JdbcTemplate;
+import org.springframework.jdbc.core.PreparedStatementCreator;
+
+public class jdbcDaoEmployee implements Dao {
+
+	@Autowired
+	JdbcTemplate jt;
+	
+	
+	
+	@Override
+	public String save(Employee e) {
+		// TODO Auto-generated method stub
+		jt.update(new PreparedStatementCreator() {
+			
+			@Override
+			public PreparedStatement createPreparedStatement(Connection con) throws SQLException {
+				PreparedStatement pst = con.prepareStatement("insert into emp values(?,?,?,?)");
+				pst.setInt(1, e.getEmpId());
+				pst.setString(2, e.getName());
+				pst.setString(3, e.getCity());
+				pst.setDouble(4, e.getSalary());
+				return pst;
+			}
+		});
+		return "Employee " + e.getEmpId() + " Added into the Data Base";
+	}
+
+	@Override
+	public String deleteEmp(int empId) {
+		jt.update(new PreparedStatementCreator() {
+			
+			@Override
+			public PreparedStatement createPreparedStatement(Connection con) throws SQLException {
+				PreparedStatement pst = con.prepareStatement("insert into emp values(?,?,?,?)");
+				pst.setInt(1, e.getEmpId());
+				pst.setString(2, e.getName());
+				pst.setString(3, e.getCity());
+				pst.setDouble(4, e.getSalary());
+				return pst;
+			}
+		});
+		return "Employee " + e.getEmpId() + " Deleted from DataBase";
+	}
+
+	@Override
+	public List<Employee> listAllEmployee() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Employee getEmployeeById(int empid) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

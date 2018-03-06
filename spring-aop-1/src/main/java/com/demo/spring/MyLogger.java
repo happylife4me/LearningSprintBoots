@@ -9,13 +9,14 @@ import org.springframework.stereotype.Component;
 @Component
 public class MyLogger {
 	
-	@Before("execution(String com.demo..EmpApp1.registerEmployee(..))")
-	public void logBefore(){
-		System.out.println("Before method call .....");
+	@Before("execution(* com.demo..EmpApp.*(..)) && args(id, name, city, sal)")
+	public void logBefore(int id, String name, String city, double sal){
+		System.out.println("Before method call ....." + id + " " + name + " " + city + " " + sal);
 	}
 	
-	@AfterReturning("execution(* com.demo..EmpApp1.DeleteEmployee(..))")
-	public void logAfter(){
-		System.out.println("After method call .....");
+	@AfterReturning(pointcut="execution(* com.demo..EmpApp.DeleteEmployee(..))", returning="returnValue")
+	public boolean logAfter(boolean returnValue){
+		System.out.println("After method call ....." + returnValue);
+		return returnValue;
 	}
 }
