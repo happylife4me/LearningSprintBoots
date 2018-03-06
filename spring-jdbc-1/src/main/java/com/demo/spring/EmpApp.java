@@ -32,6 +32,10 @@ public class EmpApp {
 		return objDao.getEmployeeById(empId);
 	}
 	
+	public String saveEmployeeList(List<Employee> emps){
+		return objDao.saveList(emps);
+	}
+	
 	
 	
 }

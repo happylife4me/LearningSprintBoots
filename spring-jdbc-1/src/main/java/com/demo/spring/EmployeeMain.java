@@ -1,6 +1,11 @@
 package com.demo.spring;
 
 import java.io.Console;
+import java.util.ArrayList;
+import java.util.Collection;
+import java.util.Iterator;
+import java.util.List;
+import java.util.ListIterator;
 
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
@@ -14,7 +19,7 @@ public class EmployeeMain {
 		ApplicationContext ctx = new AnnotationConfigApplicationContext(AppConfig.class);
 		EmpApp EmpObj = (EmpApp) ctx.getBean("objEmp");
 		
-		System.out.println("-------INSERT - Started--------------------");
+		/*System.out.println("-------INSERT - Started--------------------");
 		System.out.println(EmpObj.registerEmployee(empid,"Jagadeesh", "Hyderabad", 65000));
 		
 		System.out.println("-------INSERT - Completed--------------------");
@@ -41,6 +46,17 @@ public class EmployeeMain {
 			System.out.println("Id : " + e.getEmpId() +  " Name : " + e.getName() + "  City: " + e.getCity()  + " Salary :  " + e.getSalary());
 		}
 		System.out.println("---------------------------");
+		
+		System.out.println("\n");
+		System.out.println("--------List of Employess to DB-------------------");*/
+		ArrayList<Employee> lstEmp = new ArrayList<>();
+		lstEmp.add(new Employee(112, "Jagadeesh", "Hyderabad", 45000));
+		lstEmp.add(new Employee(113, "Umadevi", "Secunderabad", 32500));
+		lstEmp.add(new Employee(104, "Ruthvik", "Badvel", 528692));
+		System.out.println(EmpObj.saveEmployeeList(lstEmp));
+		System.out.println("---------------------------");
+		
+		
 		
 	}
 

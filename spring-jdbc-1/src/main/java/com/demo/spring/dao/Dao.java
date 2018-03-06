@@ -7,4 +7,5 @@ public interface Dao {
 	public String deleteEmp(int empId);
 	public List<Employee>listAllEmployee();
 	public Employee getEmployeeById(int empid);
+	public String saveList(List<Employee> emps);
 }
