@@ -1,0 +1,10 @@
+package com.demo.spring;
+
+Deo objDao;
+
+public class EmpApp {
+	public String registerEmployee(int id, String name, String city, double sal)
+	{
+		
+	}
+}

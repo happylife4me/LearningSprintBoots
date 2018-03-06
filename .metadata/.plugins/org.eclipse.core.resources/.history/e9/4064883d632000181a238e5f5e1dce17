@@ -1,0 +1,20 @@
+package com.demo.spring;
+
+import org.springframework.context.ApplicationContext;
+import org.springframework.context.support.ClassPathXmlApplicationContext;
+
+public class MainEmployee {
+
+	public static void main(String[] args) {
+		ApplicationContext ctx = new ClassPathXmlApplicationContext("context.xml");
+		Dao objDeo = (Dao) ctx.getBean("objJdcDao");
+		
+		System.out.println(objDeo.saveEmp(new Employee(100, "Jagadeesh", "Hyderabad", 45000)));
+		
+		EmpApp objEmpApp = (EmpApp)ctx.getBean("app");
+		System.out.println(objEmpApp.registerEmployee(id, name, city, sal));
+		
+		
+	}
+
+}

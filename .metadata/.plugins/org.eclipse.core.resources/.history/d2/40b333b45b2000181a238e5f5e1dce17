@@ -1,0 +1,18 @@
+package com.demo.spring;
+
+import org.springframework.context.ApplicationContext;
+import org.springframework.context.support.ClassPathXmlApplicationContext;
+
+public class EmailTesting {
+
+	private static ApplicationContext ctx;
+
+	public static void main(String[] args) {
+		ctx = new ClassPathXmlApplicationContext("context.xml");
+		Mail m =(Mail) ctx.getBean("mailObj");
+		
+		System.out.println(m.getMessage().getContent());
+
+	}
+
+}

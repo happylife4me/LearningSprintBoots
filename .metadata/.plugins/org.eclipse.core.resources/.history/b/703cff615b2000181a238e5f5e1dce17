@@ -1,0 +1,17 @@
+package com.demo.spring;
+
+import java.applet.AppletContext;
+
+import org.springframework.context.support.ClassPathXmlApplicationContext;
+
+public class EmailTesting {
+
+	public static void main(String[] args) {
+		AppletContext ctx = new ClassPathXmlApplicationContext("context.xml");
+		Mail m =(Mail) ctx.getBean("mailObj");
+		
+		System.out.println(m.getMessage().getContent());
+
+	}
+
+}
