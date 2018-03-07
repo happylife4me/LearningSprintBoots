@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete 3 elements from project &apos;spring-rest-1&apos;&#x0D;&#x0A;- Original project: &apos;spring-rest-1&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     dom.demo.spring.controller.LoginController.java&#x0D;&#x0A;     dom.demo.spring.controller.MyRestController.java&#x0D;&#x0A;     dom.demo.spring.controller.TestController.java" description="Delete elements" element1="/src\/main\/java&lt;dom.demo.spring.controller{MyRestController.java" element2="/src\/main\/java&lt;dom.demo.spring.controller{TestController.java" element3="/src\/main\/java&lt;dom.demo.spring.controller{LoginController.java" elements="3" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1520416380913" subPackages="false" version="1.0"/>
+</session>

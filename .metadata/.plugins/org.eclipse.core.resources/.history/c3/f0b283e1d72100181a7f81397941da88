@@ -1,0 +1,9 @@
+login.(class)=org.springframework.web.servlet.viewjstlView
+login.url=/WEB-INF/login/login.jsp
+
+success.(class)=org.springframework.web.servlet.viewjstlView
+success.url=/WEB-INF/login/loginSuccess.jsp
+
+failure.(class)=org.springframework.web.servlet.viewjstlView
+failure.url=/WEB-INF/login/loginFailure.jsp
+

@@ -1,0 +1,16 @@
+package dom.demo.spring.controller;
+
+import org.springframework.http.MediaType;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestMethod;
+
+import dom.demo.spring.Employee;
+
+public class EmployeeController {
+
+	@RequestMapping(path="/emp", method=RequestMethod.GET, produces = "application/xml")
+	public Employee getEmployee(){
+		Employee e =  new Employee(100, "Jagadeesh", "London", 48000);
+		return e;
+	}
+}
