@@ -42,7 +42,7 @@ public class EmployeeController {
 	}
 	
 	//Not working Need to check this
-	@RequestMapping(path="/allemp", method=RequestMethod.POST, produces = {MediaType.APPLICATION_XML_VALUE}, consumes = MediaType.APPLICATION_JSON_VALUE)
+	@RequestMapping(path="/allemp", method=RequestMethod.POST, produces = {MediaType.APPLICATION_XML_VALUE}, consumes = MediaType.APPLICATION_JSON)
 	public List<Employee> GetAllEmployeesReturnObj(@RequestBody Employee e)
 	{
 		objEmp.save(e);
