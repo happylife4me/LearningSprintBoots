@@ -3,7 +3,10 @@
 <aop-project name="spring-app-1"/>
 <aop-project name="spring-app-2"/>
 <aop-project name="spring-app-3"/>
+<aop-project name="demo"/>
+<aop-project name="spring-rest-1"/>
 <aop-project name="spring-jdbc-1"/>
 <aop-project name="spring-jpa-1"/>
 <aop-project name="spring-aop-1"/>
+<aop-project name="boot-login"/>
 </aop-reference-model>

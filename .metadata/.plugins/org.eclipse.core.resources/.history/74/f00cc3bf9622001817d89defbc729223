@@ -1,0 +1,5 @@
+package dom.demo.spring;
+
+public class WebSecurityInitialiizer {
+
+}

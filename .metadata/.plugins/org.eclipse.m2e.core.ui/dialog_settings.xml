@@ -5,9 +5,11 @@
 			<item value="com.demo"/>
 		</list>
 		<list key="name">
+			<item value="boot-login"/>
 			<item value="spring-jdbc-1"/>
 		</list>
 		<list key="artifactId">
+			<item value="boot-login"/>
 			<item value="spring-jdbc-1"/>
 		</list>
 		<list key="projectNameTemplate">
@@ -59,6 +61,7 @@
 	</section>
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="C:\Jagadeesh\demo"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
